@@ -6,6 +6,7 @@ bool tmp(pair <int,int> x, pair <int,int> y){
 }
 
 int main(){
+    cout<<"Selamat datang"<<endl
     int n; 
     pair <int,int> act[10000];
     cin>>n;
